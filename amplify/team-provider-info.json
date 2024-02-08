@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-asbapiautomation-dev-61536-authRole",
+      "UnauthRoleArn": "arn:aws:iam::730335362513:role/amplify-asbapiautomation-dev-61536-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::730335362513:role/amplify-asbapiautomation-dev-61536-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-asbapiautomation-dev-61536-deployment",
+      "UnauthRoleName": "amplify-asbapiautomation-dev-61536-unauthRole",
+      "StackName": "amplify-asbapiautomation-dev-61536",
+      "StackId": "arn:aws:cloudformation:us-east-1:730335362513:stack/amplify-asbapiautomation-dev-61536/6154d430-c61b-11ee-a8c2-12d9fc6256fb",
+      "AmplifyAppId": "d27r7d51sh3zte"
+    },
+    "categories": {
+      "api": {
+        "asbapiautomation": {}
+      }
+    }
+  }
+}

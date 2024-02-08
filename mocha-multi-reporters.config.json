@@ -1,0 +1,9 @@
+{
+    "reporterEnabled": "spec, junit",
+    "spec": {
+      "stdout": "-"
+    },
+    "junit": {
+      "stdout": "./test-results.xml"
+    }
+  }
